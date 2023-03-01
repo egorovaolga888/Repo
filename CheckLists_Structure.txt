@@ -1,0 +1,8 @@
+Project Name:	To do List
+Enviroment:	Samsung Galaxy A51, Android 11.0, One UI 3.0 
+Date of creation:	23.08.2022
+Tester:	Olga Egorova
+Status:	In progress
+
+
+ID_Test	-- Description -- Status -- Comment
